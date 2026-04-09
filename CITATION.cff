@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+authors:
+  - family-names: "Nekkalapu"
+    given-names: "Raviteja"
+    orcid: "https://orcid.org/0009-0002-9309-0318"
+title: "Think Less, Store Smarter: A Theoretical Framework for Type-Aware KV Cache Quantization in Large Reasoning Models"
+version: 2.0.0
+doi: 10.5281/zenodo.19482477
+date-released: 2026-04-09
+url: "https://doi.org/10.5281/zenodo.19482477"
+license: MIT
